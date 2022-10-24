@@ -52,3 +52,7 @@ body {
 .favourite-item__img img {
     border-radius: 10px;
 }
+.footer-menu-item a {
+    text-decoration: none;
+    color: white;
+}
